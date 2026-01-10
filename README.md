@@ -1,3 +1,5 @@
+![Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-blue?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Language-Shell%20Script-orange?style=for-the-badge&logo=gnu-bash&logoColor=white)
 # Arch Linux Post-Install Script (Perfect Edition)
 
 Скрипт для автоматизации установки пакетов и глубокого анализа необходимых системных сервисов. Создан для тех, кто ценит чистоту логов и точность автоматизации.
