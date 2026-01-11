@@ -86,6 +86,7 @@ snapper
 sof-firmware
 system-config-printer
 ttf-jetbrains-mono-nerd
+typst
 vim
 vlc
 vulkan-intel
